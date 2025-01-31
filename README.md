@@ -33,7 +33,7 @@ $Q = \frac{1}{x_1}+\frac{1.5}{x_2}+\frac{2.0}{x_3}$
  
 with the following constraint
 
-$x_1 + {0.5}{x_2} + {0.2}{x_3} = 0.3
+$x_1 + {0.5}{x_2} + {0.2}{x_3} = 0.3$
 
 We first develop an ANN model to serve as a surrogate for the objective function. This ANN model is then integrated with a gradient-based optimization algorithm to optimize the design variables $x_1$, $x_2$, $x_3$ and achieve the minimum value of 𝑄.
 
