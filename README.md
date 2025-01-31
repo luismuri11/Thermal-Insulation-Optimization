@@ -1,8 +1,9 @@
 # Case Studies: Thermal Insulation Optimization
 In this example, we will use an Artificial Neural Network (ANN) to design thermal insulation around tubes in order to minimize heat loss. You will later implement this in Python.
 
-A fluid flows through three tubes, each of diameter d and length L. Surrounding each tube is a layer of thermal insulation material with thicknesses $t_1$, $t_2$, $t_3$, and thermal conductivities $k_1$, $k_2$ and $k_3$, respectively. The thermal resistance of the insulation around each tube, $R_i$, is calculated as
+A fluid flows through three tubes, each of diameter d and length L. Surrounding each tube is a layer of thermal insulation material with thicknesses $t_1$, $t_2$, $t_3$, and thermal conductivities $k_1$, $k_2$ and $k_3$, respectively. The thermal resistance of the insulation around each tube, $R_i$, is calculated as:
 ​
+
 $R_i = \frac{t_i}{{\pi}{d}{L}{k_i}}$
  
 The total heat loss through the insulation is: 
