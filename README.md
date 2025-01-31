@@ -1,5 +1,5 @@
 # Thermal-Insulation-Optimization
-$R_{i} = \frac{t_{i}}{{\phi}{d}{L}{k_{i}}}$
+$R_{i} = \frac{t_{i}}{{\pi}{d}{L}{k_{i}}}$
  
 The total heat loss through the insulation is 
 
