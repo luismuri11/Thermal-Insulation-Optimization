@@ -1,3 +1,1 @@
-${c_1}{\pi}{d}{L}{t_1} + {c_2}{\pi}{d}{L}{t_2} + {c_3}{\pi}{d}{L}{t_3} = P$
-
-where $c_i$ represents the cost per unit volume of each insulation material.$\Delta{T}$
+$x_1 + {\frac{c_2}{c_1}}{x_2} + {\frac{c_3}{c_1}}{x_3} = \frac{P}{{\pi}{\d^2}{L}{c_1}}$
